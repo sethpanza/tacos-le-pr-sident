@@ -17,7 +17,7 @@ header{
     height: 100px;
     border: 1px solid #ffa500;
     background-color: #ffa500;
-    font-size : 25px;
+    font-size : 20px;
     align-items: center;
     justify-content: left;
     width: 100%;
@@ -38,7 +38,7 @@ nav li{
     flex-direction: row;
 }
 nav a{
-    font-size: 25px;
+    font-size: 21px;
     color: #2f5d4e;
     padding-bottom: 10px;
     text-decoration:none;
@@ -47,6 +47,7 @@ nav a{
     height: 80px;
     width: 150px;
     margin : 10px;
+    border-radius: 20px;
 
 }
 .boite{
